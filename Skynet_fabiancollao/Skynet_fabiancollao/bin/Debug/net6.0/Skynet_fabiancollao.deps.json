@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Skynet_fabiancollao/1.0.0": {
+        "dependencies": {
+          "AdminTerminator_ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Skynet_fabiancollao.dll": {}
+        }
+      },
+      "AdminTerminator_ClassLibrary/1.0.0": {
+        "runtime": {
+          "AdminTerminator_ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skynet_fabiancollao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdminTerminator_ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
